@@ -37,7 +37,7 @@ __ = type something here
    i. [ OK ]  
 
 #### How to import environment variable into vbscript
-```Visual Basic
+```CS
 Execute(CreateObject("WScript.Shell").Environment("User")("ENV_NAME_HERE"))
 
 REM your code here...
