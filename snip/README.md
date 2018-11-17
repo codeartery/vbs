@@ -5,13 +5,13 @@ A collection of classes and functions that I have made to make life easier.
 ### Classes
 | Name | Example | Description |
 | ---- | ---- | ---- |
-| [FormatString](./FormatString.vbs) | [FormatString.Use](./FormatString.use.vbs) | Evals data in strings between {brackets} or user defined tokens, and allows for easy appending. |
+| [FormatString](./FormatString.vbs) | [Link](./FormatString.use.vbs) | Evals data in strings between {brackets} or user defined tokens, and allows for easy appending. |
 
 ---
 ### Functions
 | Name | Example | Description |
 | ---- | ---- | ---- |
-| [FormatDateAs](./FormatDateAs.vbs) | [FormatDateAs.Use](./FormatDateAs.use.vbs) | Format a date based off of a user defined 'd','m','y' pattern. |
+| [FormatDateAs](./FormatDateAs.vbs) | [Link](./FormatDateAs.use.vbs) | Format a date based off of a user defined 'd','m','y' pattern. |
 
 ---
 ### @Mini
