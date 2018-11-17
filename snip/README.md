@@ -19,19 +19,19 @@ KEY:
 {} = keyboard keys
 [] = button, or input
 () = copy-paste this value.
-\\ = value inside is not raw; it represents something else
+// = value inside is not raw; it represents something else
 __ = type something here
 ```
 
 1. {WINDOWS_KEY + R}
-2. \<Run>
-   a. [Open:] (rundll32 sysdm.cpl,EditEnvironmentVariables)  
-   b. [OK]  
-3. \<Environment Variables>
-   a. [New...]  
-4. \<New User Variable>
-   a. [Variable name:] _NAME_HERE_  
-   b. [Variable value:] (\@Mini\)  
-   c. [OK]  
-5. \<Environment Variables>
-   a. [OK]
+2. \<Run>  
+   i. [Open:] (rundll32 sysdm.cpl,EditEnvironmentVariables)  
+   ii. [OK]  
+3. \<Environment Variables>  
+   i. [New...]  
+4. \<New User Variable>  
+   i. [Variable name:] _NAME_HERE_  
+   ii. [Variable value:] (/@Mini/)  
+   iii. [OK]   
+5. \<Environment Variables>  
+   i. [OK]  
