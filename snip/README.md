@@ -23,9 +23,9 @@ KEY:
 __ = type something here
 ```
 
-1. { WinKey + R }
-2. \< Run >
-   i. [ Open: ] ( rundll32 sysdm.cpl,EditEnvironmentVariables )  
+1. { WinKey + R }  
+2. \< Run >  
+   i. [ Open: ] ( rundll32 sysdm.cpl,EditEnvironmentVariables )   
    ii. [ OK ]  
 3. \< Environment Variables >  
    i. [ New... ]  
