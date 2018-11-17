@@ -1,9 +1,3 @@
-REM Copy and paste class or just @mini into your code to use.
-REM You can even set @mini to a user environment variable with 
-REM @mini as the value, and then import it like so:
-REM Execute(CreateObject("WScript.Shell").Environment("User")("ENV_VAR_NAME_HERE"))
-
-Option Explicit      
 Dim name, age
 name = "Jeremy"
 age = 97
