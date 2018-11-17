@@ -25,14 +25,14 @@ __ = type something here
 
 > *{*WinKey + R*}*  
 
-> \*<*Run*>*  
+> *\<*Run*>*  
 >> *[*Open:*] (*rundll32 sysdm.cpl,EditEnvironmentVariables*)*   
 >> *[*OK*]*  
 
-> \*<*Environment Variables*>*  
+> *\<*Environment Variables*>*  
 >> *[*New...*]*  
 
-> \*<*New User Variable*>*  
+> *\<*New User Variable*>*  
 >> *[*Variable name:*]* *_*ENV_NAME_HERE*_*  
 >> *[*Variable value:*]* *(/*@Mini*/)*  
 >> *[*OK*]*   
