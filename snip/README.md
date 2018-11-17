@@ -23,22 +23,22 @@ KEY:
 __ = type something here
 ```
 
-> *{*WinKey + R*}*  
+> {WinKey + R}  
 
-> *\<*Run*>*  
->> *[*Open:*] (*rundll32 sysdm.cpl,EditEnvironmentVariables*)*   
->> *[*OK*]*  
+> \<Run>  
+>> [Open:] (rundll32 sysdm.cpl,EditEnvironmentVariables)   
+>> [OK]  
 
-> *\<*Environment Variables*>*  
->> *[*New...*]*  
+> \<Environment Variables>  
+>> [New...]  
 
-> *\<*New User Variable*>*  
->> *[*Variable name:*]* *_*ENV_NAME_HERE*_*  
->> *[*Variable value:*]* *(/*@Mini*/)*  
->> *[*OK*]*   
+> \<New User Variable>  
+>> [Variable name:] _ENV_NAME_HERE_  
+>> [Variable value:] (/@Mini/)  
+>> [OK]   
 
-> *\<*Environment Variables*>*  
->> *[*OK*]*  
+> \<Environment Variables>  
+>> [OK]  
 
 #### How to import environment variable code into vbscript
 ```CS
