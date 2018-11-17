@@ -1,17 +1,17 @@
 # Glossary
-A collection of classes and functions that I have made.
+A collection of classes and functions that I have made to make life easier.
 
 ---
 ### Classes
-| Name | Example |
-| ---- | ---- |
-| [FormatString](./FormatString.vbs) | [FormatString.Use](./FormatString.use.vbs) |
+| Name | Example | Description |
+| ---- | ---- | ---- |
+| [FormatString](./FormatString.vbs) | [FormatString.Use](./FormatString.use.vbs) | Evals data in strings between {brackets} or user defined tokens, and allows for easy appending. |
 
 ---
 ### Functions
-| Name | Example |
-| ---- | ---- | 
-| [FormatDateAs](./FormatDateAs.vbs) | [FormatDateAs.Use](./FormatDateAs.use.vbs) |
+| Name | Example | Description |
+| ---- | ---- | ---- |
+| [FormatDateAs](./FormatDateAs.vbs) | [FormatDateAs.Use](./FormatDateAs.use.vbs) | Format a date based off of a user defined 'd','m','y' pattern. |
 
 ---
 ### @Mini
@@ -38,7 +38,7 @@ __ = type something here
 
 > \<New User Variable>  
 >> [Variable name:] \_ENV_NAME_HERE_  
->> [Variable value:] (/@Mini/)  
+>> [Variable value:] (/@mini/)  
 >> [OK]   
 
 > \<Environment Variables>  
