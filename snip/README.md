@@ -3,11 +3,13 @@ A collection of classes and functions that I have made.
 
 ---
 ### Classes
-- [FormatString](./FormatString.vbs) - [Code example](./FormatString.use.vbs)
+Name | Example
+[FormatString](./FormatString.vbs) | [FormatString.Use](./FormatString.use.vbs)
 
 ---
 ### Functions
-- [FormatDateAs](./FormatDateAs.vbs) - [Code example](./FormatDateAs.use.vbs)
+Name | Example
+[FormatDateAs](./FormatDateAs.vbs) | [FormatDateAs.Use](./FormatDateAs.use.vbs)
 
 ---
 ### @Mini
@@ -33,7 +35,7 @@ __ = type something here
 >> [New...]  
 
 > \<New User Variable>  
->> [Variable name:] _ENV_NAME_HERE_  
+>> [Variable name:] \_ENV_NAME_HERE_  
 >> [Variable value:] (/@Mini/)  
 >> [OK]   
 
