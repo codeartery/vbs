@@ -1,8 +1,8 @@
 # Glossary
 Useful code snippet classes and routines.
 ### Classes
-- [FormatString](./FormatString.vbs) | [Example](./FormatString.use.vbs)
+- [FormatString](./FormatString.vbs), [example](./FormatString.use.vbs)
 
 ---
-### Routines
-- [FormatDateAs](./FormatDateAs.vbs) | [Example](./FormatDateAs.use.vbs)
+### Functions
+- [FormatDateAs](./FormatDateAs.vbs), [example](./FormatDateAs.use.vbs)
