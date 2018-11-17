@@ -23,7 +23,7 @@ KEY:
 __ = type something here
 ```
 
-1. {WINDOWS_KEY + R}
+1. {WinKey + r}
 2. \<Run>  
    i. [Open:] (rundll32 sysdm.cpl,EditEnvironmentVariables)  
    ii. [OK]  
