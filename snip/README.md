@@ -3,17 +3,17 @@ A collection of classes and functions that I have made.
 
 ---
 ### Classes
-- [FormatString](./FormatString.vbs), [example](./FormatString.use.vbs)
+- [FormatString](./FormatString.vbs) - [Code example](./FormatString.use.vbs)
 
 ---
 ### Functions
-- [FormatDateAs](./FormatDateAs.vbs), [example](./FormatDateAs.use.vbs)
+- [FormatDateAs](./FormatDateAs.vbs) - [Code example](./FormatDateAs.use.vbs)
 
 ---
 ### @Mini
 Each class or function has a @mini version that can be used to reduce the space the code takes up, but also can be assigned to an environment variable for easy importation into any of your scripts.
 #### How to assign @mini to an environment variable
-```ini
+```
 KEY:
 <> = title of window
 {} = keyboard keys
@@ -25,13 +25,13 @@ __ = type something here
 
 1. {WINDOWS_KEY + R}
 2. <Run>
-   [Open:] (rundll32 sysdm.cpl,EditEnvironmentVariables)  
-   [OK]  
+   a. [Open:] (rundll32 sysdm.cpl,EditEnvironmentVariables)  
+   b. [OK]  
 3. <Environment Variables> 
-   [New...]  
+   a. [New...]  
 4. <New User Variable>
-   [Variable name:] _NAME_HERE_  
-   [Variable value:] (\@Mini\)  
-   [OK]  
+   a. [Variable name:] _NAME_HERE_  
+   b. [Variable value:] (\@Mini\)  
+   c. [OK]  
 5. <Environment Variables>
-   [OK]
+   a. [OK]
