@@ -1,4 +1,3 @@
-REM import full or mini class
 Function FormatDateAs(i,f,z):Dim d,dp,m,mp,y,yp:dp=Len(f)-Len(Replace(f,"d","")):mp=Len(f)-Len(Replace(f,"m","")):yp=Len(f)-Len(Replace(f,"y","")):f=Replace(Replace(Replace(f,String(dp,"d"),"d"),String(mp,"m"),"m"),String(yp,"y"),"y"):If(z)Then:z="000":Else:z="":End If:d=Right(z&DatePart("d",i),dp):m=Right(z&DatePart("m",i),mp):y=Right(z&DatePart("yyyy",i),yp):f=Replace(Replace(Replace(f,"d",d),"m",m),"y",y):FormatDateAs=f:End Function
 
 REM example with today's date zero padded
