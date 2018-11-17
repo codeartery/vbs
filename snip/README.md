@@ -3,13 +3,15 @@ A collection of classes and functions that I have made.
 
 ---
 ### Classes
-Name | Example
-[FormatString](./FormatString.vbs) | [FormatString.Use](./FormatString.use.vbs)
+| Name | Example |
+| ---- | ---- |
+| [FormatString](./FormatString.vbs) | [FormatString.Use](./FormatString.use.vbs) |
 
 ---
 ### Functions
-Name | Example
-[FormatDateAs](./FormatDateAs.vbs) | [FormatDateAs.Use](./FormatDateAs.use.vbs)
+| Name | Example |
+| ---- | ---- | 
+| [FormatDateAs](./FormatDateAs.vbs) | [FormatDateAs.Use](./FormatDateAs.use.vbs) |
 
 ---
 ### @Mini
