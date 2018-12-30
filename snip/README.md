@@ -1,21 +1,5 @@
-# Glossary
-A collection of classes and functions that I have made to make life easier.
-
----
-### Classes
-| Name | Example | Description |
-| ---- | ---- | ---- |
-| [FormatString](./FormatString.vbs) | [Link](./FormatString.use.vbs) | Evals data in strings between {brackets} or user defined tokens, and allows for easy appending. |
-
----
-### Functions
-| Name | Example | Description |
-| ---- | ---- | ---- |
-| [FormatDateAs](./FormatDateAs.vbs) | [Link](./FormatDateAs.use.vbs) | Format a date based off of a user defined 'd','m','y' pattern. |
-
----
-### @Mini
-Each class or function has a @mini version that can be used to reduce the space the code takes up, but also can be assigned to an environment variable for easy importation into any of your scripts.
+# @Mini
+Each class/function/sub has a @mini version that can be used to reduce the space the code takes up, but also can be assigned to an environment variable for easy importation into any of your scripts.
 #### How to assign @mini to an environment variable
 ```
 KEY:
