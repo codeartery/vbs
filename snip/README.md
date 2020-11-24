@@ -1,5 +1,5 @@
 # @Mini
-Each class/function/sub has a @mini version that can be used to reduce the space the code takes up, but also can be assigned to an environment variable for easy importation into any of your scripts.
+Each class/function/sub has a @mini version that can be used to reduce the space the code takes up, and also can be assigned to an environment variable for easy importation into any of your scripts.
 #### How to assign @mini to an environment variable
 ```
 KEY:
